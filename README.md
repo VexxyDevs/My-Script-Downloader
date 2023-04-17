@@ -1,5 +1,5 @@
 # My-Script-Downloader
-Downloads All my scripts in 1 go
+Download All my scripts in 1 go
 
 
 what you will need:
